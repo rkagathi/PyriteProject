@@ -27,6 +27,9 @@ Research Questions to Answer
 
 Data Sets to be Used
 
+
+Rough Breakdown of Tasks
+
 Twitter API
 Data.gov's 2016 election results dataset
 
