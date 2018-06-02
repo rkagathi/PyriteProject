@@ -15,10 +15,30 @@ Rajesh
 
 Project Description/Outline
 
-In this project, we will investigate the sentiments expressed and questions posed by users on twitter after The President tweets. We will also pair the 2016 election data by county and state with each individual user's geographic location on twitter. More specifically, we are interested in the possible relationship between a user's location and their county/state election data to understand the how user sentiment, uncertainty, and location interact. Do users who live in states and counties that voted for the President in the 2016 express less uncertainty and negative sentiments relative to users who do not? We will be using twitter's API to collect/harvest the data and subsequently employ both textual analysis and vader sentiment analysis to understand the expressed sentiment and uncertainty by user location. If time permits, we will also extend our analysis to news organizations and their tweets in response to the President, but disregard the news organization's location.
+In this project, we will investigate the sentiments expressed and questions posed by users on twitter after The President tweets.  We will also pair the 2016 election data by county and state with each individual user's geographic location on twitter. More specifically, we are interested in the possible relationship between a user's location and their county/state election data to understand the how user sentiment, uncertainty (questions will be used as a proxy for uncertainty) and location interact. Do users who live in states and counties that voted for the President in the 2016 election express less uncertainty and negative sentiments relative to users who do not? We will be using twitter's API to collect/harvest the data and subsequently employ both textual analysis and vader sentiment analysis to understand the expressed sentiment and uncertainty by user location. If time permits, we will also extend our analysis to news organizations and their tweets in response to the President, but disregard the news organization's location.
 
 Research Questions to Answer
 
+1) Do users who live in states and counties that voted for the President in the 2016 election express less uncertainty and negative sentiments relative to users who do not? 
+
+2) Does the sentiment expressed within the President's tweet(s) affect/directly correlate with user sentiment and uncertainty? Does this further interact with user location and their state's/county's election data?
+
+3) How do news orgranizations' tweets moderate and or mediate user sentiment and uncertainty? Does this further interact with user location and their state's/county's election data?
+
 Data Sets to be Used
 
+
 Rough Breakdown of Tasks
+
+Twitter API
+Data.gov's 2016 election results dataset
+
+Rough Breakdown of Tasks
+
+1) Collect/Harvest data from twitter
+2) Perform Vader Sentiment Analyis
+3) Perform textual analysis (questions == uncertainty)
+4) Merge data with election data
+5) Conduct statistics
+6) Generate graphs
+7) Identify trends & Write Report
