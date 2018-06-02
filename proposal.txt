@@ -1,0 +1,24 @@
+Write a description of the scope of your research
+
+Create a short 1 page proposal listing out each of the following:
+
+Project Title
+
+Presidental Tweets and Negative Uncertainty by election results and user location
+
+Team Members
+
+Sarah
+Dan 
+Rimsha
+Rajesh
+
+Project Description/Outline
+
+In this project, we will investigate the sentiments expressed and questions posed by users on twitter after The President tweets. We will also pair the 2016 election data by county and state with each individual user's geographic location on twitter. More specifically, we are interested in the possible relationship between a user's location and their county/state election data to understand the how user sentiment, uncertainty, and location interact. Do users who live in states and counties that voted for the President in the 2016 express less uncertainty and negative sentiments relative to users who do not? We will be using twitter's API to collect/harvest the data and subsequently employ both textual analysis and vader sentiment analysis to understand the expressed sentiment and uncertainty by user location. If time permits, we will also extend our analysis to news organizations and their tweets in response to the President, but disregard the news organization's location.
+
+Research Questions to Answer
+
+Data Sets to be Used
+
+Rough Breakdown of Tasks
